@@ -1,9 +1,7 @@
-// 水滴图
+// 水球图
 
 var myChart = echarts.init(document.querySelector('.water'));
-
 let compositeScore = 0.78;
-
 var option = {
     // backgroundColor: "#001829",
     graphic: [

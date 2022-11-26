@@ -1,3 +1,6 @@
+
+// 主页js
+
 (function () {
     // 监控模块
     // 获取点击的tab  choseTab

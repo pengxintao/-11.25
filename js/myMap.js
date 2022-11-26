@@ -1,6 +1,7 @@
+// 地图航线js
+
 (function () {
     var myChart = echarts.init(document.querySelector('.geo'));
-
     var geoCoordMap = {
         '上海': [121.4648, 31.2891],
         '东莞': [113.8953, 22.901],
